@@ -9,7 +9,7 @@
 ##otherwise computes an inverse for the matrix and returns it
 
 
-## This function creates a matrix ( even if you don't input a matrix ) and sets in an inverse if given(stores whateve the user gives as inverse)
+## makeCacheMatrix function creates a matrix ( even if you don't input a matrix ) and sets in an inverse if given(stores whateve the user gives as inverse)
 
 makeCacheMatrix <- function(x = matrix()) {inv <- NULL
                                            
